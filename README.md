@@ -13,14 +13,8 @@ infinq supports multipathed devices and both iSCSI and FC connectivity.
 
 
 ### Sample Output 
-#timex python infinq.py
-Device                                     Size         Volume          Array      Pool
----------------------------------------------------------------------------------------
-c0t6742B0F0000005DB000000000001A6D0d0       1.00 GB     test_sol69      ibox1499   APJ-Pool
-c0t6742B0F0000005DB000000000001A6CEd0       1.00 GB     test_sol68      ibox1499   APJ-Pool
-c0t6742B0F0000005DB000000000001A6BCd0       1.00 GB     test_sol59      ibox1499   APJ-Pool
-c0t6742B0F0000005DB000000000001A6BEd0       1.00 GB     test_sol60      ibox1499   APJ-Pool
 
+![script_output](sample_output.png)
 
 ### Limitations
 tested with 1,000 InfiniBox devices
