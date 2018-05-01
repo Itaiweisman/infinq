@@ -3,7 +3,7 @@
 ## INQ Utility for Solaris
 
 ### Background
-InfiniBox volumes can be inquired using the HPT 'infinihost volume list' command. due to architecture limitation, it works very slow on Sun Solaris Sparc hosts.
+
 The Following utility can be used to query all SCSI devices, and uses SCSI queries to get the required data.
 infinq supports multipathed devices and both iSCSI and FC connectivity.
 
