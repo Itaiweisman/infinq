@@ -13,7 +13,6 @@ infinq supports multipathed devices and both iSCSI and FC connectivity.
 
 
 ### Sample Output 
-
 #timex python infinq.py
 Device                                     Size         Volume          Array      Pool
 ---------------------------------------------------------------------------------------
