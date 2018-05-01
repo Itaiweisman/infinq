@@ -14,7 +14,7 @@ infinq supports multipathed devices and both iSCSI and FC connectivity.
 
 ### Sample Output 
 
-root@t5220a:/tmp# timex python infinq-SCSIONLY.py
+root@t5220a:/tmp> timex python infinq-SCSIONLY.py
 Device                                     Size         Volume          Array      Pool
 ---------------------------------------------------------------------------------------
 c0t6742B0F0000005DB000000000001A6D0d0       1.00 GB     test_sol69      ibox1499   APJ-Pool
